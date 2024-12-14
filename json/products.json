@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Laptop",
+            "description": "High-performance laptop with latest specifications",
+            "price": 999.99,
+            "image_url": "https://via.placeholder.com/300x200",
+            "stock": 10,
+            "category": "Electronics",
+            "featured": false
+        },
+        {
+            "id": 2,
+            "name": "Smartphone",
+            "description": "Latest model smartphone with advanced features",
+            "price": 699.99,
+            "image_url": "https://via.placeholder.com/300x200",
+            "stock": 15,
+            "category": "Electronics",
+            "featured": false
+        },
+        {
+            "id": 3,
+            "name": "Headphones",
+            "description": "Wireless noise-canceling headphones",
+            "price": 199.99,
+            "image_url": "https://via.placeholder.com/300x200",
+            "stock": 20,
+            "category": "Audio",
+            "featured": false
+        },
+        {
+            "id": 4,
+            "name": "Smartwatch",
+            "description": "Fitness tracking smartwatch",
+            "price": 299.99,
+            "image_url": "https://via.placeholder.com/300x200",
+            "stock": 12,
+            "category": "Wearables",
+            "featured": false
+        },
+        {
+            "id": 5,
+            "name": "Tablet",
+            "description": "10-inch tablet with high-resolution display",
+            "price": 449.99,
+            "image_url": "https://via.placeholder.com/300x200",
+            "stock": 8,
+            "category": "Electronics",
+            "featured": false
+        },
+        {
+            "id": 6,
+            "name": "Camera",
+            "description": "Digital camera with 4K video capability",
+            "price": 799.99,
+            "image_url": "https://via.placeholder.com/300x200",
+            "stock": 5,
+            "category": "Photography",
+            "featured": false
+        }
+    ]
+} 
